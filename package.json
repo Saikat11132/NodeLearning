@@ -1,0 +1,23 @@
+{
+  "name": "nodelearning",
+  "version": "1.0.0",
+  "description": "\"Learning Node",
+  "main": "Node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saikat11132/NodeLearning.git"
+  },
+  "keywords": [
+    "Saikat",
+    "Ruj"
+  ],
+  "author": "Saikat Ruj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Saikat11132/NodeLearning/issues"
+  },
+  "homepage": "https://github.com/Saikat11132/NodeLearning#readme"
+}
