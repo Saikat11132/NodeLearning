@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/Saikat11132/NodeLearning/issues"
   },
-  "homepage": "https://github.com/Saikat11132/NodeLearning#readme"
+  "homepage": "https://github.com/Saikat11132/NodeLearning#readme",
+  "dependencies": {
+    "nodemon": "^3.1.0"
+  }
 }
